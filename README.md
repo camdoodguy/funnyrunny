@@ -1,2 +1,2 @@
 # funnyrunny
- funny map
+funny minecraft datapack, with a world to understand it
